@@ -19,6 +19,7 @@ Welcome to the Rock Paper Scissors game! This simple web-based game allows users
 - Keep track of wins, losses, and ties.
 - Autoplay feature to let the computer make moves automatically.
 - Reset the score to start afresh.
+- Also uses keyboard keys to pointout rock paper and scissor move.
 
 ## Demo
 
