@@ -23,21 +23,10 @@ Welcome to the Rock Paper Scissors game! This simple web-based game allows users
 
 ## Demo
 
-[Link to the live demo](#) - (Replace with your deployment link if applicable)
-
-Include screenshots or gifs showcasing your game in action.
-
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
+file:///C:/code/javascript/rockpaper/rockPaperScissors.html 
 
 ### Prerequisites
 
 - Web browser (Chrome, Firefox, Safari, etc.)
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
